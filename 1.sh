@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello, DevOps!"
-echo  "pwd"
+echo  "$1"
